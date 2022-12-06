@@ -1,0 +1,173 @@
+/* Tag Selectors */
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Nerko One", cursive;
+  font-size: 2rem;
+  color: #293462;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+h3 {
+  margin-top: 0;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+h4 {
+  margin: 0;
+  padding: 10px 0;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: lighter;
+  line-height: 1;
+  font-weight: bold;
+}
+
+h5 {
+  font-size: 2rem;
+  margin: 0;
+  padding: 10px 0;
+}
+
+p {
+  font-size: 1.7rem;
+  margin: 0;
+  padding: 5px 0;
+  font-family: "Josefin Sans", sans-serif;
+  line-height: 2;
+  /* background-color: #d2daff; */
+}
+
+/* Containers */
+
+.top_container {
+  background-color: #eef1ff;
+  margin: 0;
+}
+
+.middle_container {
+  background-color: #d2daff;
+  margin: 0;
+  /* display: inline-block; */
+}
+
+.second_middle_container {
+  text-align: left;
+  display: inline-block;
+}
+
+.third_middle_container {
+  text-align: right;
+  display: inline-block;
+  margin: 0 0 10px 0;
+}
+
+.bottom_container {
+  background-color: #aac4ff;
+  margin: 0;
+}
+
+/* images */
+
+.leftLight {
+  width: 20%;
+  position: absolute;
+  margin: 0;
+}
+
+.rightLight {
+  width: 20%;
+  position: relative;
+  margin: 0 0 0 20%;
+}
+
+.island {
+  width: 30%;
+  height: auto;
+}
+
+.profile_img {
+  margin-top: 2%;
+  width: 15%;
+}
+
+.laptop {
+  width: 20%;
+  background-color: #eef1ff;
+  border-radius: 100px;
+  float: left;
+  margin-right: 20px;
+}
+
+.teach {
+  width: 20%;
+  margin-left: 20px;
+  background-color: #eef1ff;
+  border-radius: 100px;
+  float: right;
+  text-align: right;
+}
+
+/* class selectors */
+
+.name {
+  color: #ef2f88;
+}
+
+.developer {
+  text-decoration: underline;
+}
+
+.mySkills {
+  padding: 20px 0;
+  text-decoration: underline;
+}
+
+.junior {
+  padding-bottom: 15px;
+}
+
+.underProfile {
+  border: solid #aac4ff;
+  border-style: dotted;
+  border-top: 0;
+  width: 10%;
+  border-width: 0.5rem;
+}
+
+.underSkills {
+  border: solid #aac4ff;
+  border-style: dotted;
+  border-bottom: 0;
+  width: 10%;
+  border-width: 0.5rem;
+  margin-top: 20px;
+}
+
+.getInTouch {
+  padding-top: 1rem;
+  font-family: "Nerko One", cursive;
+  font-size: 3rem;
+  color:#ef2f88;
+}
+
+.btn {
+  /* margin: 1rem 0; */
+  font-family: "Nerko One", cursive;
+  background-color: #eef1ff;
+  font-size: 2rem;
+  /* border-radius: 50%; */
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #ff6464;
+}
+
+.atSign {
+  font-size: 50%;
+  margin-right: 70%;
+}
