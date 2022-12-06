@@ -74,24 +74,24 @@ p {
 
 .leftLight {
   width: 20%;
-  position: absolute;
+  position: relative;
   margin: 0;
 }
 
 .rightLight {
   width: 20%;
   position: relative;
-  margin: 0 0 0 20%;
+  /* margin: 0 0 0 20%; */
 }
 
 .island {
-  width: 30%;
+  width: 30rem;
   height: auto;
 }
 
 .profile_img {
-  margin-top: 2%;
-  width: 15%;
+  width: 9.5rem;
+  /* margin-top: 2%; */
 }
 
 .laptop {
@@ -151,7 +151,7 @@ p {
   padding-top: 1rem;
   font-family: "Nerko One", cursive;
   font-size: 3rem;
-  color:#ef2f88;
+  color: #ef2f88;
 }
 
 .btn {
